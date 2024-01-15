@@ -3,7 +3,7 @@ from rich import print, markdown
 from script.utils import markdonw_converter
 
 while True:    
-    url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=AIzaSyA6km8FwBTS628nS1f9kBmGzhHoBmn409Q"
+    url = "cahve api" #aqui sua chave de API do Google
     headers = {
         "Content-Type": "application/json"
     }
